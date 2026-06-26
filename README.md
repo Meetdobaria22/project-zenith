@@ -2,7 +2,7 @@
 
 A real-time celestial tracking platform. Select any location on Earth and see exactly what is above you right now — planets, the ISS, satellites, and stars — rendered on a live interactive sky dome.
 
-**Live Demo:** [your-vercel-url-here]
+**Live Demo:** https://project-zenith-6t2z.vercel.app/
 
 ---
 
